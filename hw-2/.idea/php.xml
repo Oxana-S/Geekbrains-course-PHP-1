@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="c:/ospanel/modules/php/PHP_7.3-x64" />
+      <path value="c:/ospanel/modules/php/PHP_7.3-x64/PEAR/pear" />
+    </include_path>
+  </component>
+</project>
