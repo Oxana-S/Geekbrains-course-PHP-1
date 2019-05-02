@@ -1,5 +1,6 @@
 # GeekBrains. PHP. Уровень 1.
-Преподаватель: Вадим Ыасильев. 
+Преподаватель: Вадим Васильев.
+
 Адрес общего курса: https://geekbrains.ru/courses/4
 
 Ссылка на мой курс: https://geekbrains.ru/lessons/38713
