@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="RU">
+<head>
+    <title>ДЗ-4</title>
+</head>
+<body>
+<header>
+    <nav class="menu">
+        <ul>
+            <a href="index.php"><li>Главная</li></a>
+            <a href="gallery.php"><li>Галерея</li></a>
+        </ul>
+    </nav>
+</header>
+<div>
+    <h1>{{H1}}</h1>
+    <div>{{CONTENT-0}}{{CONTENT-1}}</div>
+</div>
+<footer>
+<hr>
+    <p>Дата</p>
+</footer>
+</body>
+</html>
+<div>
