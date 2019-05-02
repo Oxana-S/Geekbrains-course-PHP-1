@@ -12,3 +12,6 @@
     *CSS<br>
     *...<br>
 Ссылка на репозиторий по курсу PHP-I   *(1, 2, 3, 4 ДЗ)* с примерами: https://github.com/fateevv85/PHP-l.git
+
+
+Ссылка на справку по языку MARKDOWN, на котором написан файл readme.dm: https://www.markdownguide.org/basic-syntax/#code
