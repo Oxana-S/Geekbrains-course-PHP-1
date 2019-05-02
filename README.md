@@ -1,4 +1,8 @@
-# geekbrains_php-1
+# GeekBrains. PHP. Уровень 1.
+Преподаватель: Вадим Ыасильев. 
+https://geekbrains.ru/courses/4
+https://geekbrains.ru/lessons/38713
+
 ## Курс PHP-1
 ### Репозиторий для хранения и обмена информацией в рамках курса PHP-1.
 ### Cсылка на курс: https://geekbrains.ru/lessons/38716 .
