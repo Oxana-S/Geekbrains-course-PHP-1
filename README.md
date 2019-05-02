@@ -4,9 +4,9 @@
 Ссылка на мой курс: https://geekbrains.ru/lessons/38713 <br>
 
 ## Общая информация.
-### Репозиторий для хранения и обмена информацией в рамках курса PHP-1.<br>
-### Cсылка на курс: https://geekbrains.ru/lessons/38716 .<br>
-### Ссылка на все ДЗ курсов GEEKBRAINS: https://github.com/avshatalov48/geekbrains
+ Репозиторий для хранения и обмена информацией в рамках курса PHP-1.<br>
+ Cсылка на курс: https://geekbrains.ru/lessons/38716 .<br>
+ Ссылка на все ДЗ курсов GEEKBRAINS: https://github.com/avshatalov48/geekbrains
 *PHP<br>
 *JS<br>
 *CSS<br>
