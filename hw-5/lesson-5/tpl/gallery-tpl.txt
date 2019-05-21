@@ -1,6 +1,0 @@
-<div class="flex">
-            <?php
-               $images = createPath(IMG_DIR);
-               galleryBuild($images);
-            ?>
-      </div>
