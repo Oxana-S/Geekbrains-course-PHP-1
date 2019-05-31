@@ -5,14 +5,11 @@
 
 ## Общая информация.
  Репозиторий для хранения и обмена информацией в рамках курса PHP-1.<br>
- + Cсылка на курс: https://geekbrains.ru/lessons/38716 .<br>
+ + Cсылка на курс PHP-1: https://geekbrains.ru/lessons/38716 .<br>
  + Ссылка на все ДЗ, всех курсов **GEEKBRAINS:** https://github.com/avshatalov48/geekbrains <br>
-    *PHP<br>
-    *JS<br>
-    *CSS<br>
-    *...<br>
- + Ссылка на все ДЗ, всех курсов студента Александра Шаталова **GEEKBRAINS:** https://github.com/avshatalov48/geekbrains <br>    
+    *PHP, JS, CSS, ...<br>
+ + Ссылка на все ДЗ, всех курсов студента Александра Шаталова **GEEKBRAINS:** https://github.com/avshatalov48/geekbrains <br>
+    *PHP, JS, CSS, ...<br> 
  + Ссылка на репозиторий по курсу PHP-I   *(1, 2, 3, 4 ДЗ)* с примерами: https://github.com/fateevv85/PHP-l.git
-
 
 Ссылка на справку по языку MARKDOWN, на котором написан файл readme.dm: https://www.markdownguide.org/basic-syntax/#code
